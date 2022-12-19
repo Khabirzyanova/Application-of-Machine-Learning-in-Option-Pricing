@@ -1,6 +1,6 @@
 # Application of Machine Learning methods in Option Pricing
 
-This project is inspired by the article 
+This project is inspired by Culkin and Das’ work https://srdas.github.io/Papers/BlackScholesNN.pdf and 
 
 ## Data simulation 
 
